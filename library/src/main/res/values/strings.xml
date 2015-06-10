@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="cancel">取消</string>
+    <string name="need_qr_code">请对准二维码图片</string>
+</resources>
